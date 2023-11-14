@@ -1,0 +1,1 @@
+Códigos simples implementados no primeiro contato com a linguagem, estudo feito para realização de um seminário da disciplina de Linguagens de Programação.
